@@ -1,5 +1,7 @@
-## Hi there 👋
-
+My _public_ GitHub activity is a bit sparse.
+So I direct would-be recruiters, colleagues and such to search for my name here instead to get a flavour.
+[Code ~5,400](https://github.com/search?q=%22jamie+lokier%22+OR+jlokier&type=code), [Commits ~565,000](https://github.com/search?q=%22jamie+lokier%22+OR+jlokier&type=commits&s=&o=desc&p=19)
+- Thanks for indexing, GitHub :-)
 <!--
 **jlokier/jlokier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
